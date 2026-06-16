@@ -1,0 +1,18 @@
+clase5_pipeline_encuestas
+|
+|-data
+|   -encuesta-csv
+|
+|-main.py (consume la paquetería, la data)
+|
+|-encuestas (= src / paquete)
+|   -__init__.py
+|   -lector.py
+|   -validador.py
+|   -transformador.py
+|   -analizador.py
+|   -escritor
+|
+|-output
+|
+|-notas.txt
